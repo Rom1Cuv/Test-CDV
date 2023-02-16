@@ -1,0 +1,62 @@
+.App {
+  text-align: center;
+}
+
+.boutonOn {
+  font-size: 40px;
+  color: blue;
+  border: 3px solid blue;
+  border-radius: 15px;
+  padding: 40px;
+  margin: 5px;
+  background-color: lightgrey;
+}
+
+.boutonOff {
+  font-size: 40px;
+  border: 3px solid black;
+  border-radius: 15px;
+  padding: 40px;
+  margin: 5px;
+  background-color: lightgrey;
+}
+
+.voyant1On {
+  height: 100px;
+  width: 100px;
+  margin-top: 5px;
+  font-size: 20px;
+  color:red;
+  border: 3px solid red;
+  border-radius: 50px;
+}
+.voyant1Off {
+  height: 100px;
+  width: 100px;
+  margin-top: 5px;
+  font-size: 20px;
+  border: 3px solid black;
+  border-radius: 50px;
+}
+.voyant2On {
+  height: 100px;
+  width: 100px;
+  margin-top: 5px;
+  font-size: 20px;
+  color:green;
+  border: 3px solid green;
+  border-radius: 50px;
+}
+.voyant2Off {
+  height: 100px;
+  width: 100px;
+  margin-top: 5px;
+  font-size: 20px;
+  border: 3px solid black;
+  border-radius: 50px;
+}
+
+.etage {
+  padding-bottom: 15px;
+  padding-right: 10px;
+}
